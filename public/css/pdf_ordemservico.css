@@ -1,0 +1,60 @@
+@charset "utf-8";
+#impOs{width:100%; height:auto; }
+#impOsCss{width:100%; height:50px; background: #000000; border-radius: 0px 0px 20px 20px; padding: 10px; }
+#impOsCssEndereco{width:80%; height:25px; text-align:center;  background: #CCCCCC; margin-left:70px;
+	border-radius: 0px 0px 20px 20px; }
+#impOsCssSite{width:50%; height:25px; text-align:center;  background: #000000; margin-left:170px;
+	border-radius: 0px 0px 20px 20px; color:#FFFFFF; font-size: 18px; font-family: Arial;}
+
+#impOsCss1 img{width:150px; height:50px; float: left;}
+#impOsCss2{text-align: right; width:300px; height:auto; margin-top: 1px; font-family: Arial; font-size: 22px; font-weight: bold; color: #FFFFFF;  }
+#impOsCss3{text-align: right; width:300px; height:auto; margin-top: 1px; font-family: Arial; color: #FFFFFF; font-size: 16px;}
+#impOsCss4{float: right;width:300px; height:auto; }
+
+#impOsCss5{width:100%; height:50px; margin-bottom: 20px;}
+#impOsCss5 span{font-family: Arial; font-size: 22px; font-weight: bold; display: inline; }
+
+#impOsCss6{width:45%; height:60px; margin-top: 1px; border: solid 1px #000000; border-radius: 10px; margin-bottom: 30px; float: left; margin-right: 10px;}
+#impOsCss6 img{width:30px; height:20px; margin-right: 15px; }
+
+#impOsCss7{width:300px; font-family: Arial;  font-size: 14px; margin-left: 5px;} 
+#impOsCss8{width:300px; font-family: Arial;  font-size: 14px; margin-left: 5px;}
+#impOsCss9{width:300px; font-family: Arial;  font-size: 14px; margin-left: 5px;} 
+	
+#impOsCss10 {width:40%; height:30px; font-family: Arial; font-size: 18px;  text-align: right; float: right; display: inline; margin-top: 35px;}
+#impOsCss11 {width:45%; height:50px; font-family: Arial; font-size: 22px; font-weight: bold;  text-align: left; float: left; display: inline;}
+
+#impOsCss12{width:100%; height:75px; margin-top: 15px;  clear: both;}
+
+#impOsCss13{width:100%; height:auto;  border: solid 1px #000000; border-radius: 10px; margin-bottom: 25px;}
+#impOsCss13 img{width:30px; height:20px; margin-right: 10px; }
+
+#impOsCss14Titulos{width:100%; height:20px; border-radius: 10px; padding: 3px; margin-bottom: 5px; margin-top: 5px;}
+#impOsCss14{width:100%; height:20px; border-radius: 10px; padding: 3px; margin-bottom: 5px; margin-top: 5px;  background: #D8D8D7;}
+
+#impOsCss15{width:100px; height:20px; float: left; text-align: center;}
+#impOsCss15 label{font-family: Arial; font-size: 22px; font-weight: bold; color:#FFFFFF;}
+#impOsCss16{width:400px; height:20px;  float: left; }
+#impOsCss17{width:150px; height:20px;  float: left; text-align:right;}
+
+#impOsCss18{width:100px;  float: left; text-align: center;}
+#impOsCss19{width:400px; height:auto;  float: left;}
+#impOsCss20{width:150px; height:auto;  float: left; text-align:right;}
+
+#impOsCss21{width:100%; height:30px; border-radius: 10px; padding: 2px; margin-top:-7px; margin-bottom: 5px; background: #000000; color:#FFFFFF;}
+#impOsCss17 label{font-family: Arial; font-size: 22px; font-weight: bold; }
+
+#impOsCss22{width:80px; height:20px; float: left; text-align: center;}
+#impOsCss23{width:300px; height:20px; float: left; text-align: left;}
+#impOsCss24{width:150px; height:20px; float: left; text-align: right;}
+#impOsCss25{width:120px; height:20px;  float: left; text-align:right; margin-left:10px;}
+#impOsCss26{width:120px; height:20px; float: left; text-align: center;}
+
+#recibo{width:80%; height:auto; text-align: justify; margin-left: 100px; font-size: 20px;}
+#recibo p{text-align: justify; font-size: 20px;}
+#recibo label{margin-left: 100px; text-align: justify; margin-bottom: 30px; font-size: 20px;}
+
+#reciboMecanico1{width:100px; height:20px;  float: left; text-align:left; margin-left:10px;}
+#reciboMecanico2{width:200px; height:20px;  float: left; text-align:left; margin-left:10px;}
+#reciboMecanico3{width:120px; height:20px;  float: left; text-align:right; margin-left:10px;}
+#reciboMecanico4{width:120px; height:20px;  float: left; text-align:right; margin-left:10px;}

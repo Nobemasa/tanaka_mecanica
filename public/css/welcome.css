@@ -1,0 +1,25 @@
+.header-site{
+	background-image: url(../img/backing.png);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	color: #0a0a0a;
+	text-align: right;
+    width: 100%;
+    height: 100%;
+	font: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.whatsapp {
+    position: fixed;
+    top: 82%;
+    right: 1%; /*left ou right só escolher*/
+    padding: 10px;
+	width: 200px; 
+	height: 90px;
+	z-index: 10000000;
+}
